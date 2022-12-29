@@ -1,7 +1,7 @@
 
 ### Links
 
-- [Demo](https://profile-card-six-steel.vercel.app/)
+- Live Site [Demo](https://profile-card-six-steel.vercel.app/)
 
 ### Built with  
   
@@ -9,5 +9,3 @@
 - SCSS properties
 - Flexbox
 - Mobile-first workflow 
-
-   
